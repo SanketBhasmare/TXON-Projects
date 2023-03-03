@@ -1,2 +1,3 @@
 # TXON Projects
- Project Name - Landing Page
+1) Project Name - Landing Page
+2) Project Name - Simple Calculator
